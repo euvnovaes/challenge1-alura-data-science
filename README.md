@@ -78,5 +78,6 @@ Considerando o faturamento, custos de frete, avaliações e desempenho de produt
 
 ---
 
-**Autor:** [DevNovaes]
+**Autor:** [DevNovaes](https://github.com/euvnovaes)
+
 **Contato:** [Linkedin](linkedin.com/in/novaesvinicius)
